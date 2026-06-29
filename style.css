@@ -35,3 +35,10 @@ td {
 
   text-align: center;
 }
+
+thead{
+
+    background:#222;
+
+    color:white;
+}
